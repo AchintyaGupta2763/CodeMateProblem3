@@ -1,0 +1,9 @@
+streamlit
+pymongo
+sentence-transformers
+numpy
+PyPDF2
+fpdf
+deepseek-ai  # adjust to the actual pip package
+transformers
+torch
