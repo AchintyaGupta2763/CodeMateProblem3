@@ -6,3 +6,4 @@ pymongo[srv]
 sentence-transformers
 fpdf
 numpy
+PyPDF2
